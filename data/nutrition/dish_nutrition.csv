@@ -1,0 +1,114 @@
+key,name,group,kcal,protein_g,carb_g,fat_g,fibre_g,unit,unit_g,countable,kcal_per_unit,source,source_detail
+roti,Roti / chapati,bread,202.31,5.88,35.65,3.56,6.31,1 medium roti,40,True,81,INDB,ASC096 Chapati/Roti
+paratha,Plain paratha,bread,296.84,5.07,30.72,16.69,5.44,1 paratha,70,True,208,INDB,ASC097 Plain parantha/paratha; ASC112 Tandoori parantha/paratha
+stuffed_paratha,"Stuffed paratha (aloo, gobi, paneer...)",bread,203.53,4.96,23.47,9.66,4.94,1 paratha,110,True,224,INDB,ASC098 Potato parantha/paratha (Aloo ka parantha/paratha); ASC099 Radish parantha/paratha (Mooli ka parantha/paratha); ASC100 Cauliflower parantha/paratha (Phoolgobhi ka parantha/paratha); ASC101 Dal parantha/paratha; ASC103 Pea parantha/paratha (Matar ka parantha/paratha); ASC105 Paneer parantha/paratha; BFP108 Onion-green chilli parantha/paratha (Pyaaz aur hari mirch ka parantha/paratha); BFP110 Methi parantha/paratha
+naan,Naan,bread,286.45,8.05,51.75,4.99,1.91,1 naan,90,True,258,INDB,ASC142 Naan
+puri,Puri,bread,409.0,6.84,35.73,24.94,3.5,1 puri,25,True,102,recipe,puri
+bhatura,Bhatura,bread,409.0,6.84,35.73,24.94,3.5,1 bhatura,80,True,327,recipe,bhatura ~ puri (both deep-fried wheat bread)
+thepla,Thepla,bread,346.16,8.98,41.34,15.95,7.56,1 thepla,40,True,138,INDB,OSR104 Methi thepla
+bread_toast,Bread / toast,bread,293.0,10.36,51.57,3.94,2.5,1 slice,30,True,88,recipe,"white bread, toasted"
+sandwich,Sandwich,bread,202.26,7.97,21.79,9.74,2.1,1 sandwich (2 slices),130,True,263,INDB,ASC025 Cucumber sandwich (Kheere ka sandwich); ASC027 Cheese and tomato sandwich (Cheese aur tamatar ke sandwich); ASC032 Vegetarian club sandwich; ASC039 Mushroom and cheese sandwich (toasted); ASC040 Cheese and tomato sandwich (toasted) (Cheese aur tamatar ke sandwich (toasted)); ASC041 Pea potato sandwich (toasted) (Matar aloo ka sandwich); ASC042 Paneer pea sandwich (toasted) (Paneer matar ka sandwich); ASC043 Chicken sandwich (toasted); ASC044 Pea keema sandwich (toasted) (Matar aur keema ka sandwich); BFP457 French sandwich (toasted)
+kaathi_roll,Kathi roll / wrap,bread,285.94,6.92,20.1,19.55,2.4,1 roll,150,True,429,INDB,ASC149 Paneer kaathi roll
+rice,Plain rice,rice,129.0,2.67,27.59,0.28,0.4,1 katori cooked,150,False,194,recipe,"plain boiled rice, no added fat"
+pulao,Pulao / jeera / flavoured rice,rice,132.99,3.03,20.33,4.16,2.23,1 katori,150,False,199,INDB,"ASC114 Plain pulao; ASC115 Mixed vegetable pulao; ASC116 Mushroom pulao; ASC124 Lemon rice (Pulihora, Elumichai sadam, Chitranna); BFP134 Cumin pulao (Jeera/Zeera pulao); BFP136 Peas pulao (Matar pulao)"
+biryani,Biryani,rice,106.5,4.54,14.58,2.79,1.15,1 plate,250,False,266,recipe,average of chicken and vegetable biryani
+fried_rice,Fried rice,rice,120.58,4.05,13.4,5.43,2.31,1 plate,200,False,241,INDB,ASC129 Chinese fried rice
+khichdi,Khichdi,rice,126.54,4.91,18.73,3.46,2.44,1 katori,200,False,253,INDB,BFP556 Spinach khichri (Palak khichri/khichdi); BFP576 Poshtik khichdi/khichri; ASC487 Vegetable khichdi/khichri; ASC490 Cracked wheat khichri/khichdi (Dalia khichri/khichdi)
+curd_rice,Curd rice,rice,195.74,5.75,32.93,4.32,2.13,1 katori,200,False,391,INDB,ASC126 Curd rice (Dahi bhaat/Dahi chawal/ Perugu annam/Daddojanam/Thayir saadam)
+dal,Dal (yellow / tadka),dal,101.58,5.52,8.69,3.53,4.63,1 katori,150,False,152,recipe,"home dal: average of INDB dal recipes (thin, ~55 kcal/100 g) and USDA FNDDS 'Dal' (thick, 145)"
+dal_makhani,Dal makhani,dal,103.13,3.93,8.74,5.66,3.38,1 katori,150,False,155,INDB,ASC160 Moti mahal dal (Urad rajmah mix dal)
+rajma,Rajma,dal,143.73,5.95,16.38,5.77,5.83,1 katori,150,False,216,INDB,ASC165 Kidney bean curry (Rajmah curry)
+chole,Chole / chana masala,dal,163.43,6.1,19.98,6.84,4.73,1 katori,150,False,245,INDB,ASC162 Chickpeas curry (Safed channa curry)
+kadhi,Kadhi,dal,114.3,4.52,7.25,7.23,0.76,1 katori,150,False,171,recipe,"curd-besan curry without pakoras: 85% curd, 7% besan, 4% oil, 4% water"
+sambar,Sambar,dal,96.92,3.35,10.57,4.38,3.52,1 katori,150,False,145,INDB,ASC167 Sambar
+rasam,Rasam,dal,25.58,1.12,3.11,0.88,1.57,1 katori,150,False,38,INDB,BFP176 Rasam with tamarind (Puli rasam/ Chintapandu rasam/ Charu/Saaru); BFP177 Rasam with lemon (Nimmakaya rasam/Nimmakaya charu/Elumichai rasam/Nimbe hannina saaru)
+sprouts_salad,Sprouts / chana / corn salad,salad,51.13,2.79,8.48,0.63,1.75,1 katori,100,False,51,INDB,ASC170 Sprouted moong dal chat; ASC258 Mixed pulse and vegetable salad; ASC259 Sprouted moong salad 
+aloo_sabzi,Aloo sabzi,sabzi,104.79,2.01,10.81,5.78,2.48,1 katori,150,False,157,INDB,ASC172 Potato capsicum (Shimla mirch aloo); ASC178 Dry potato (Sookhe aloo); ASC190 Pea potato curry (Aloo matar); BFP239 Potato curry (Aloo ki sabzi)
+gobi_sabzi,Gobi / aloo gobi,sabzi,106.18,1.9,5.99,8.13,3.02,1 katori,150,False,159,INDB,ASC171 Potato cauliflower (Aloo gobhi)
+bhindi,Bhindi,sabzi,102.57,1.96,4.18,8.46,3.86,1 katori,120,False,123,INDB,ASC184 Stuffed okra (Bharwa bhindi); BFP269 Okra/Lady's fingers fry (Bhindi sabzi/sabji/subji)
+baingan,Baingan / bharta,sabzi,80.89,1.65,4.46,6.09,3.67,1 katori,150,False,121,INDB,ASC177 Brinjal bhartha (Baingan ka bhartha); ASC187 Stuffed brinjal (Bharwa baingan); BFP266 Peas brinjal bhartha (Matar baingan bhartha)
+gourd_sabzi,Lauki / tori / tinda,sabzi,86.0,1.6,7.01,5.27,1.8,1 katori,150,False,129,USDA,2710067 Vegetable curry
+dry_veg,Cabbage / beans / carrot sabzi,sabzi,101.8,2.43,4.72,7.97,4.56,1 katori,120,False,122,INDB,ASC173 Cabbage and peas (Pattagobhi aur matar); ASC179 Beans with coconut (Nariyal aur sem/phali; Beans thoran); ASC181 Carrot and cabbage with coconut (Nariyal ke saath pattagobhi aur gajar); BFP272 Beans foogath
+palak_saag,Palak / saag,sabzi,98.1,6.07,2.96,6.78,2.12,1 katori,150,False,147,INDB,ASC217 Sarson ka saag; BFP208 Spinach mushroom (Palak mushroom); OSR071 Spinach mushroom scrambled egg (Palak mushroom bhurji)
+mixed_veg,Mixed veg sabzi,sabzi,89.02,3.72,7.31,4.79,3.81,1 katori,150,False,134,INDB,ASC192 Pea mushroom curry (Matar mushroom); ASC193 Pea curry (Matar ki sabzi); BFP205 Mushroom matar
+soya_chunks,Soya chunks,sabzi,125.78,5.77,6.75,8.27,4.26,1 katori,150,False,189,INDB,ASC164 Soyabean curry; BFP204 Soya chunks korma (Nutrinugget korma); BFP206 Soya chunks and peas (Nutrinugget matar)
+paneer_curry,"Paneer curry (shahi, kadai, matar...)",paneer,161.69,6.76,8.44,11.21,1.81,1 katori,150,False,243,INDB,ASC191 Pea paneer curry (Matar paneer); ASC195 Paneer curry; ASC221 Shahi paneer; ASC222 Paneer in butter sauce; ASC223 Methi malai paneer
+palak_paneer,Palak paneer,paneer,77.68,4.03,4.43,4.76,1.91,1 katori,150,False,117,INDB,ASC215 Spinach paneer (Palak paneer)
+paneer_bhurji,Paneer bhurji,paneer,256.51,15.25,11.07,16.84,0.26,1 katori,120,False,308,recipe,"80% paneer, 15% onion/tomato, 5% oil"
+paneer_tikka,Paneer pieces / tikka,paneer,257.89,18.86,12.41,14.78,0.0,6 pieces,100,False,258,recipe,plain paneer pieces (raw or grilled without much oil)
+chicken_curry,Chicken curry,nonveg,138.06,10.85,4.18,8.65,1.52,1 katori,150,False,207,INDB,ASC240 Chicken curry; ASC242 Butter chicken; BFP222 Chicken korma
+chicken_dry,Chicken (tandoori / tikka / grilled),nonveg,145.2,16.26,2.34,7.93,0.5,4 pieces,120,False,174,INDB,ASC241 Tandoori chicken
+egg_curry,Egg curry,nonveg,116.6,6.34,2.43,9.0,0.77,1 katori (2 eggs),200,False,233,recipe,"45% boiled egg, 55% onion-tomato curry sauce"
+omelette,Omelette,egg,213.63,9.32,2.05,18.68,1.01,1 omelette (2 eggs),110,True,235,INDB,ASC061 Plain omelette/omlet; BFP054 French omelette/omlet; BFP058 Spanish omelette/omlet
+boiled_egg,Boiled egg,egg,143.0,12.4,0.96,9.96,0.0,1 egg,50,True,72,recipe,"whole egg, boiled"
+egg_bhurji,Egg bhurji,egg,155.97,10.29,1.35,12.21,0.24,1 serving (2 eggs),110,False,172,INDB,ASC059 Scrambled egg (Ande ki bhurji)
+fish,Fish curry / fry,nonveg,108.47,10.8,3.62,5.63,1.39,1 katori,150,False,163,INDB,ASC246 Fish curry (Machli curry); ASC251 Fish tikka; ASC252 Tandoori fish; BFP223 Bengal fish curry (Bengali machli curry)
+mutton,Mutton curry,nonveg,134.36,8.25,2.5,10.22,1.13,1 katori,150,False,202,INDB,ASC232 Mutton yakhni; ASC234 Mutton do piaza; BFP194 Mutton korma
+curd,Curd (dahi),dairy,61.0,3.47,4.66,3.25,0.0,1 katori,100,False,61,recipe,plain whole-milk curd
+raita,Raita,dairy,61.59,4.25,6.51,2.17,1.02,1 katori,100,False,62,INDB,ASC269 Tomato onion raita (Tamatar aur pyaaz ka raita); ASC272 Bottle gourd raita (Ghiya/Lauki ka raita); ASC273 Cucumber raita (Kheere ka raita); ASC275 Mint raita (Pudinay ka raita); BFP316 Carrot raita (Gajar ka raita); BFP321 Spinach raita (Palak ka raita)
+milk,Milk,drink,72.9,3.26,4.94,4.48,0.0,1 glass,200,False,146,recipe,whole cow milk
+buttermilk,Buttermilk / chaas,drink,18.84,1.35,1.86,0.72,0.02,1 glass,200,False,38,INDB,ASC022 Lassi (salted)
+lassi,Sweet lassi,drink,35.66,1.29,6.51,0.68,0.0,1 glass,250,False,89,INDB,ASC021 Sweet Lassi (Meethi lassi)
+cheese,Cheese,dairy,307.0,16.09,8.85,23.06,0.0,1 slice,20,True,61,recipe,processed cheese
+veg_salad,"Salad (cucumber, tomato, onion, carrot)",salad,29.94,0.98,5.45,0.28,2.59,1 katori,100,False,30,recipe,"equal parts cucumber, tomato, onion, carrot"
+fruit_bowl,Cut fruit / fruit bowl,fruit,78.14,0.91,15.96,1.22,1.58,1 bowl,150,False,117,INDB,ASC265 Fruit salad (Phalon ka salaad)
+banana,Banana,fruit,89.0,1.09,20.24,0.33,2.6,1 banana,100,True,89,USDA,"173944 Bananas, raw"
+apple,Apple,fruit,52.0,0.26,11.41,0.17,2.4,1 apple,150,True,78,USDA,"171688 Apples, raw, with skin (Includes foods for USDA's Food Distribution Program)"
+papaya,Papaya,fruit,43.0,0.47,9.12,0.26,1.7,1 bowl,150,False,64,USDA,"169926 Papayas, raw"
+orange,Orange / mosambi,fruit,47.0,0.94,9.35,0.12,2.4,1 orange,130,True,61,USDA,"169097 Oranges, raw, all commercial varieties"
+melon,Watermelon / muskmelon,fruit,32.0,0.72,7.2,0.17,0.65,1 bowl,150,False,48,recipe,"half watermelon, half muskmelon"
+guava,Guava,fruit,68.0,2.55,8.92,0.95,5.4,1 guava,100,True,68,USDA,"173044 Guavas, common, raw"
+pomegranate,Pomegranate,fruit,83.0,1.67,14.7,1.17,4.0,1 bowl,100,False,83,USDA,"169134 Pomegranates, raw"
+grapes,Grapes,fruit,69.0,0.72,17.2,0.16,0.9,1 bowl,100,False,69,USDA,"174683 Grapes, red or green (European type, such as Thompson seedless), raw"
+idli,Idli,breakfast,137.54,4.64,28.18,0.33,2.31,1 idli,40,True,55,INDB,ASC144 Idli
+dosa,Dosa (plain),breakfast,210.0,5.7,35.24,4.05,1.8,1 dosa,80,True,168,recipe,plain dosa
+masala_dosa,Masala dosa,breakfast,164.58,3.29,19.57,7.84,2.52,1 dosa,160,True,263,INDB,ASC146 Masala dosa
+uttapam,Uttapam,breakfast,255.95,6.18,36.28,9.03,4.4,1 uttapam,100,True,256,INDB,BFP152 Uttapam
+vada,Vada,breakfast,266.0,12.75,27.45,9.73,5.8,1 vada,50,True,133,recipe,medu vada
+upma,Upma,breakfast,147.18,4.01,16.38,7.06,3.72,1 katori,150,False,221,INDB,BFP039 Semolina upma (Suji/Rava upma); BFP043 Vegetable upma
+poha,Poha,breakfast,222.55,5.52,27.72,9.7,3.54,1 katori,150,False,334,INDB,ASC469 Sprouted moong poha ; BFP044 Poha; BFP045 Vegetable poha
+chilla,Chilla / cheela,breakfast,163.88,7.77,21.77,4.97,4.36,1 chilla,80,True,131,INDB,BFP046 Moong dal stuffed cheela/chilla (Moong dal ka cheela/chilla); BFP047 Paneer stuffed cheela/chilla; BFP580 Poshtik chilla/cheela; OSR100 Gram flour chilla/cheela (Besan chilla/cheela)
+dhokla,Dhokla,breakfast,163.92,5.89,21.56,6.12,3.69,2 pieces,60,False,98,INDB,BFP439 Khaman (dhokla); BFP440 Instant dhokla; BFP573 Gram flour and semolina dhokla (Besan suji dhokla); OSR115 Semolina dhokla (Suji/Rava dhokla)
+oats,Oats / muesli / porridge bowl,breakfast,110.28,3.77,15.83,3.71,1.18,1 bowl,200,False,221,INDB,ASC050 Oatmeal Porridge; ASC051 Cornflakes with milk; ASC486 Sweet wheat porridge (Sweet dalia)
+chutney,Chutney,condiment,114.01,2.21,11.69,6.55,3.92,1 tablespoon,20,False,23,INDB,ASC386 Coconut chutney (Nariyal ki chutney); ASC387 Mint and coriander chutney (Pudinay aur dhaniye ki chutney); BFP442 Tomato ginger chutney (Tamatar adarak ki chutney); BFP444 Coriander chutney (Hare dhaniye ki chutney)
+vermicelli,Vermicelli / seviyan,breakfast,149.11,3.11,16.88,7.45,3.21,1 katori,150,False,224,INDB,BFP040 Vermicelli upma (Semiya/Seviyan upma)
+samosa,Samosa,snack,310.0,5.14,31.36,17.47,1.8,1 samosa,60,True,186,recipe,samosa
+pakora,Pakora / bhajiya,snack,288.05,8.39,20.28,17.39,4.63,1 piece,20,True,58,recipe,"deep-fried besan batter with onion/veg: 35% besan, 50% vegetables, 15% oil absorbed"
+kachori,Kachori,snack,310.0,5.14,31.36,17.47,1.8,1 kachori,60,True,186,recipe,same as samosa (fried pastry with spiced filling)
+pani_puri,Pani puri,snack,147.8,3.08,17.43,6.54,2.25,6 puris,100,False,148,recipe,"6 puris with filling and pani: 25% puri, 20% potato, 10% chickpeas, 5% tamarind, 40% water"
+pav_bhaji,Pav bhaji,snack,96.53,2.66,11.99,4.32,1.98,1 plate (bhaji + 2 pav),250,False,241,INDB,OSR112 Pav bhaji
+chole_bhature,Chole bhature,snack,286.22,6.47,27.85,15.89,4.12,1 plate,250,False,716,recipe,"half chole, half bhatura by weight"
+namkeen,Namkeen / bhujia / chips,snack,532.0,6.39,50.73,33.98,3.1,1 small bowl,30,False,160,recipe,fried savoury snack ~ potato chips
+makhana,Makhana,snack,332.0,15.41,64.47,1.97,0.0,1 bowl,25,False,83,recipe,roasted fox nuts ~ dried lotus seeds
+nuts,"Nuts (almonds, walnuts, peanuts...)",snack,594.0,17.3,16.35,51.45,9.0,1 handful,30,False,178,recipe,"mixed nuts, dry roasted"
+roasted_chana,Roasted chana,snack,378.0,20.47,50.75,6.04,12.2,1 handful,30,False,113,recipe,roasted Bengal gram ~ dry whole chickpeas
+biscuits,Biscuits / cookies,snack,446.0,6.9,73.0,13.8,1.1,2 biscuits,20,False,89,recipe,tea biscuits
+protein_bar,Protein bar,snack,426.0,30.0,43.0,14.0,2.0,1 bar,50,True,213,recipe,protein / nutrition bar
+momos,Momos,snack,195.0,5.26,28.74,6.14,0.9,1 momo,25,True,49,recipe,"steamed dumplings, veg/cheese filled"
+noodles,Noodles / chowmein,snack,151.33,6.33,13.3,8.23,1.64,1 plate,200,False,303,INDB,ASC135 Chicken chowmein
+pasta,Pasta,snack,138.4,4.45,21.3,3.11,1.68,1 plate,200,False,277,recipe,"70% cooked pasta, 30% tomato sauce with oil"
+pizza,Pizza,snack,249.5,5.79,30.62,12.43,1.95,1 slice,100,True,249,INDB,ASC376 Cheese pizza
+burger,Burger,snack,221.0,14.87,12.8,11.6,1.4,1 burger,150,True,332,recipe,burger with cheese (fast food)
+papad,Papad,condiment,371.0,25.56,41.27,3.25,18.6,1 papad,12,True,45,recipe,papad (roasted)
+pickle,Pickle (achar),condiment,201.66,1.75,7.8,18.79,3.22,1 teaspoon,10,False,20,INDB,ASC507 Mango pickle (Aam ka achaar); ASC509 Mixed vegetable pickle (Sabziyoon ka achaar)
+gulab_jamun,Gulab jamun,sweet,386.29,8.72,48.41,18.09,0.22,1 piece,40,True,155,recipe,"milk-solid dough fried and soaked in syrup: 30% milk powder, 8% flour, 10% oil, 31% sugar, 21% water"
+rasgulla,Rasgulla,sweet,118.64,1.38,25.79,1.75,0.01,1 piece,40,True,47,INDB,BFP392 Rasgulla
+jalebi,Jalebi,sweet,377.25,3.1,57.08,15.29,0.81,2 pieces,50,False,189,recipe,"fried batter soaked in syrup: 30% flour, 15% oil, 35% sugar, 20% water"
+ladoo,Ladoo,sweet,432.56,8.72,49.98,22.33,5.44,1 ladoo,35,True,151,INDB,ASC341 Semolina ladoo with khoya (Suji/Rava aur khoye ke ladoo ); ASC342 Semolina ladoo with coconut (Suji/Rava aur nariyal ke ladoo ); ASC343 Gram flour ladoo (Besan ladoo); ASC344 Sesame ladoo (Til ke ladoo); ASC470 Pearl millet ladoo (Bajra ladoo); ASC471 Paushtik ladoo; BFP404 Khoa ladoo; BFP406 Wheat and gram flour ladoo (Atta besan ladoo); BFP407 Semolina ladoo with nuts (Suji/Rava ladoo with nuts); BFP571 Wheat flour and nuts ladoos (Atta nuts ladoos); OSR021 Amaranth ladoo (Rajgira ladoo)
+barfi,Barfi / mithai,sweet,306.34,6.66,35.34,16.07,2.47,1 piece,30,True,92,INDB,ASC335 Plain burfi (Burfi); ASC337 Bottle gourd burfi (Ghiya/Lauki burfi); ASC338 Chocolate burfi; ASC339 Cashewnut burfi (Kaju burfi/Kaju katli); ASC340 Gram flour burfi (Besan burfi); ASC465 Wheat flour and moong dal burfi (Atta aur moong dal ki burfi); ASC466 Spinach burfi (Palak burfi); BFP396 Khoa coconut burfi; BFP397 Danedar burfi; BFP401 Semolina burfi (Suji/Rava burfi); BFP403 Pumpkin coconut burfi (Kaddu aur nariyal ki burfi); BFP560 Spinach peanut burfi (Palak aur mungfali ki burfi); BFP561 Split bengal gram burfi/fudge (Channa dal burfi); BFP574 Atta dal burfi ; OSR019 Oats burfi
+halwa,Halwa,sweet,249.36,4.54,27.81,13.6,2.39,1 katori,100,False,249,INDB,ASC293 Semolina halwa (Suji ka halwa); ASC295 Carrot halwa (Gajar ka halwa); ASC299 Moong dal halwa
+kheer,Kheer,sweet,104.04,3.1,13.67,4.29,0.32,1 katori,150,False,156,INDB,ASC282 Rice kheer (Chawal ki kheer); ASC283 Makhana kheer; ASC285 Vermicelli kheer (Semiya/Seviyan ki kheer); ASC286 Semolina kheer (Suji/Rava kheer)
+ice_cream,Ice cream / kulfi,sweet,207.0,3.5,22.9,11.0,0.7,1 scoop,70,False,145,recipe,vanilla ice cream
+cake,Cake / pastry,sweet,361.0,5.3,52.3,14.6,0.7,1 slice,70,True,253,recipe,plain sponge cake
+chocolate,Chocolate,sweet,535.0,7.65,56.0,29.66,3.4,1 piece,20,False,107,recipe,milk chocolate
+chai,Chai (milk tea),drink,48.51,1.3,6.98,1.79,0.0,1 cup,150,False,73,recipe,"home chai: 40% whole milk, 5% sugar (2 tsp per cup), rest tea water; INDB's 16 kcal/100 g recipe is too diluted"
+coffee,Coffee with milk,drink,55.8,1.63,7.47,2.24,0.0,1 cup,150,False,84,recipe,"milk coffee: 50% whole milk, 5% sugar, rest brewed coffee"
+black_coffee,Black coffee,drink,1.0,0.12,0.0,0.02,0.0,1 cup,200,False,2,recipe,"brewed coffee, no sugar"
+black_tea,Black / green tea,drink,1.0,0.0,0.3,0.0,0.0,1 cup,200,False,2,recipe,"brewed black/green tea, no sugar"
+juice,Juice,drink,45.0,0.7,10.2,0.2,0.2,1 glass,200,False,90,recipe,fresh orange juice
+smoothie,Smoothie / milkshake,drink,66.76,1.91,9.07,2.62,0.2,1 glass,250,False,167,INDB,ASC016 Banana milkshake (Kele milkshake); ASC017 Mango milkshake (Aam milkshake); BFP015 Banana milkshake with ice cream (Kele ka milkshake ice cream ke saath); BFP019 Flavoured milkshake; BFP607 Mango milkshake with ice cream (Aam milkshake ice cream ke saath)
+protein_shake,Protein shake,drink,35.9,5.81,2.91,0.12,0.0,1 shaker,300,False,108,recipe,1 scoop (30 g) whey isolate in 270 ml water
+coconut_water,Coconut water,drink,18.0,0.22,4.24,0.0,0.0,1 glass,200,False,36,recipe,unsweetened
+water,Water,drink,0.0,0.0,0.0,0.0,0.0,1 glass,250,False,0,recipe,water
+soup,Soup,drink,28.94,1.52,2.17,1.58,0.62,1 bowl,200,False,58,INDB,ASC092 Hot and sour soup; OSR130 Bottle gourd soup (Ghiya/Lauki soup); OSR133 Sweet corn soup
+soft_drink,Soft drink,drink,42.0,0.0,10.36,0.25,0.0,1 can,330,False,139,recipe,cola

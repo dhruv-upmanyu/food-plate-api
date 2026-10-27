@@ -1,0 +1,8 @@
+{
+ "api_version": "1.0.0",
+ "model_version": "76ec58bc09aa",
+ "built": "2026-10-27",
+ "dishes_recognised": 110,
+ "detector": "YOLO11m fine-tuned (models/yolo/detector.pt)",
+ "classifier": "siglip-b16 fine-tuned, linear head (models/plate_classifier)"
+}

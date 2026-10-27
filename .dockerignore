@@ -1,0 +1,8 @@
+# Send only what the API image needs (the project folder also holds GBs of training data).
+*
+!requirements-serve.txt
+!plate/
+!models/yolo/detector.pt
+!models/plate_classifier/
+!data/nutrition/dish_nutrition.csv
+**/__pycache__

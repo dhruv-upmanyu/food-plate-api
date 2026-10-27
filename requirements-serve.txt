@@ -1,0 +1,20 @@
+# Serving the meal-photo API (plate/api.py) only. Pinned to the versions the API tests passed with (Python 3.10).
+# Install the CPU build of torch first (the default Linux wheel bundles CUDA, ~5x larger, and is not needed):
+#   pip install --index-url https://download.pytorch.org/whl/cpu torch==2.11.0 torchvision==0.26.0
+#   pip install -r requirements-serve.txt
+torch==2.11.0
+torchvision==0.26.0
+transformers==5.5.0
+huggingface_hub==1.33.0
+safetensors==0.7.0
+ultralytics==8.4.189
+numpy==2.2.6
+scipy==1.15.3
+pandas==2.3.3
+pillow==12.1.1
+opencv-python==5.0.0.93
+fastapi==0.135.1
+uvicorn==0.42.0
+python-multipart==0.0.28
+# Optional, not tested yet: accept iPhone HEIC uploads directly (browsers and most phone apps already send JPEG).
+# pi-heif==1.4.0
